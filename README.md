@@ -4,7 +4,7 @@
 
 ### 🧠 Compétences
 - Frontend : HTML, CSS, JavaScript, Vue.js, React, React Native
-- Backend : PHP, Symfony, Laravel, Node.js, Java (Spring, Servlet)
+- Backend : PHP, Symfony, Laravel, Node.js, Java (Spring, Servlet, EJB)
 - UI/UX : Illustrator, Photoshop, InDesign, XD, Figma
 - Base de données : PostgreSQL, Oracle, MySQL
 
