@@ -9,6 +9,7 @@
 - Base de données : PostgreSQL, Oracle, MySQL
 
 ### 🚧 Projets
-- [🎮 Cooking Game](https://github.com/ton-nom/cooking-game) – jeu de cuisine (Godot + React Native)
-- [🛒 E-commerce Stellar](https://github.com/ton-nom/ecommerce-stellar) – site de vente + ERP
+- [🎮 Cooking App](https://github.com/ton-nom/cooking-game) – jeu de cuisine (Godot + React Native)
+- [🛒 E-commerce Stellar](https://github.com/Ivontsoa-Gracia/E-commerce-Stellar) – Site de vente de vélos de la marque Stellar, frontend en Vue.js avec intégration de l’ERP Dolibarr
+  
 📫 Contact : graciaandriamihamina@email.com
