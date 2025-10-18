@@ -1,7 +1,5 @@
 ## 👋 Hello, je suis Gracia
 
-Étudiante en L3 Informatique et Communication Digitale, passionnée par le développement web, mobile et le design graphique.
-
 ### 🧠 Compétences
 - Frontend : HTML, CSS, JavaScript, Vue.js, React, React Native
 - Backend : PHP, Symfony, Laravel, Node.js, Java (Spring, Servlet, EJB)
